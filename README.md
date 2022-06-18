@@ -1,5 +1,7 @@
 # diabetes_prediction_and_consultation
 It is a diabetes prediction project and gives advice based on your diabetes level
+
+
 outputs :
 
 ![output1](https://user-images.githubusercontent.com/98877569/174423548-74deda47-a744-48a3-9610-b150d25adcfc.png)
